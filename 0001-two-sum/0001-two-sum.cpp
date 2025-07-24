@@ -1,3 +1,4 @@
+//One hash table approace (others: Brute force, two-hash table)
 #include <iostream>
 #include <vector>
 #include <unordered_map>
